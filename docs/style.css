@@ -6,7 +6,7 @@
 }
 body {
 	background:
-		url("images/null.png"),
+		url("images/headerbg.png"),
 		url("images/tile.png");
 	background-repeat: no-repeat, repeat;
 	background-position: top center;
